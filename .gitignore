@@ -1,0 +1,11 @@
+# vscode
+.vscode
+# build
+*.out
+*.o
+*.exe
+build/
+obj/
+# documents
+*.txt
+*.docx
